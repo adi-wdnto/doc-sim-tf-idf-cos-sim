@@ -1,2 +1,2 @@
-# docAMR-SUM
-Summary generator from document text using docAMR
+# Document-level AMR Document Similarity
+Document similarity using document-level AMR and Smatch
